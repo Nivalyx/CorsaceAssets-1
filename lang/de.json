@@ -33,6 +33,7 @@
                 "nominating": "Nominierungsphase"
             },
             "rankedSets": "RANKED SETS",
+            "nominateNow": "jetzt nominieren !",
             "voteNow": "jetzt abstimmen !",
             "daysLeft": "tage übrig",
             "message": {

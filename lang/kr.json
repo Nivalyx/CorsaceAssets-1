@@ -28,6 +28,7 @@
                 "nominating": "추천 기간"
             },
             "rankedSets": "랭크맵 수",
+            "nominateNow": "지금 추천하세요 !",
             "voteNow": "지금 투표하세요 !",
             "daysLeft": "일 남음",
             "message": {

@@ -33,6 +33,7 @@
                 "nominating": "nomination stage"
             },
             "rankedSets": "RANKED SETS",
+            "nominateNow": "nominate now !",
             "voteNow": "vote now !",
             "daysLeft": "days left",
             "message": {
