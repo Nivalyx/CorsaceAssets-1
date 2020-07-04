@@ -3,43 +3,51 @@
     "login": "MASUK",
     "mca_ayim": {
         "header": {
-            "mca": "",
-            "ayim": "",
-            "login": "",
-            "welcomeBack": "",
-            "logout": ""
+            "mca": "MAPPER'S <br> CHOICE <br> AWARDS",
+            "ayim": "A YEAR <br> IN <br> MAPPING",
+            "login": "MASUK",
+            "welcomeBack": "selamat datang kembali",
+            "logout": "KELUAR"
         },
         "login": {
-            "login": "",
+            "login": "masuk",
             "message": {
-                "1": "",
-                "2": ""
+                "1": "Sepertinya Anda belum terhubung masuk!<br>Anda harus masuk terlebih dahulu dengan menggunakan akun osu! Anda untuk dapat mulai menominasikan/memberikan suara kepada beatmap-beatmap yang Anda kehendaki.",
+                "2": "Apabila akun osu! Anda sudah terhubung, Anda juga akan dapat masuk dengan menggunakan akun Discord Anda.<br>Anda <br>tidak diwajibkan</b> untuk masuk dengan menggunakan Discord,<br> namun hal ini merupakan suatu kewajiban bagi para staff dan para mapper yang belum memiliki beatmap yang berstatus Ranked namun telah berkontribusi terhadap satu atau lebih Guest Difficulty pada beatmap Ranked milik mapper lain untuk dapat menominasikan dan memberikan suara ke depannya.</span>"
             },
-            "authOsu": "",
-            "authOsuComp": "",
-            "authDiscord": "",
-            "authDiscordComp": ""
+            "authOsu": "klik di sini untuk menghubungkan akun osu! Anda",
+            "authOsuComp": "akun osu! Anda telah terhubung. Halo!",
+            "authDiscord": "klik di sini untuk menghubungkan akun Discord Anda",
+            "authDiscordComp": "akun Discord Anda telah terhubung. Halo!"
         },
         "main": {
             "voting": "voting",
             "nominating": "nominasi",
+			            "mapsetsLabel": "MAPSET",
+			            "mappersLabel": "MAPPER",
+			            "commentsLabel": "KOMENTAR",
+			            "recordsLabel": "REKOR",
+			            "statisticsLabel": "STATISTIK",
             "stage": {
                 "voting": "tahapan voting",
                 "nominating": "tahapan nominasi"
             },
-            "rankedSets": "TOTAL BEATMAP RANKED",
+            "rankedSets": "TOTAL BEATMAP YANG BERSTATUS RANKED",
             "nominateNow": "nominasi sekarang !",
             "voteNow": "vote sekarang !",
             "daysLeft": "hari tersisa",
             "message": {
                 "1": "Mapper's Choice Awards hadir kembali untuk keempat kalinya pada tahun 2019! Tidak jauh berbeda dari tahun-tahun sebelumnya, Mapper's Choice Awards merupakan suatu ajang penghargaan di mana para mapper/modder dapat menominasikan dan memilih map-map/mapper-mapper terbaik pada berbagai kategori yang diperlombakan.",
-                "2": "Tujuan dari diselenggarakannya Mapper's Choice Awards dari tahun ke tahun adalah untuk menentukan map-map dan mapper-mapper terbaik selama satu tahun ke belakang dilihat dari sudut pandang orang-orang yang terlibat di komunitas mapping.",
+                "2": "Tujuan kami menyelenggarakan Mapper's Choice Awards dari tahun ke tahun adalah untuk memberikan perspektif baru seputar beatmap-beatmap dan mapper-mapper terbaik selama satu tahun ke belakang dilihat dari mata komunitas mapping sebagai sudut pandang alternatif terhadap hasil Community Choice Awards tahun lalu!",
                 "3": "Tahun ini, kami telah secara khusus menyediakan situs web bagi Mapper's Choice Awards agar para mapper/modder yang memiliki hak suara dapat menyalurkan suaranya dengan lebih mudah.",
                 "4": "Kami berharap Anda semua dapat turut serta berpartisipasi dalam Mapper's Choice Award kali ini!"
             },
             "categories": {
                 "map": "kategori per map",
-                "user": "kategori per user"
+                "user": "kategori per pengguna",
+				"approachRate": "APPROACH RATE",
+				"circleSize": "CIRCLE SIZE",
+				"overallDifficulty": "OVERALL DIFFICULTY"
             },
             "organized": "DIORGANISIR OLEH"
         }
