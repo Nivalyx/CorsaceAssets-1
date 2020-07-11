@@ -13,7 +13,7 @@
             "login": "masuk",
             "message": {
                 "1": "Sepertinya Anda belum terhubung masuk!<br>Anda harus masuk terlebih dahulu dengan menggunakan akun osu! Anda untuk dapat mulai menominasikan/memberikan suara kepada beatmap-beatmap yang Anda kehendaki.",
-                "2": "Apabila akun osu! Anda sudah terhubung, Anda juga akan dapat masuk dengan menggunakan akun Discord Anda.<br>Anda <br>tidak diwajibkan</b> untuk masuk dengan menggunakan Discord,<br> namun hal ini merupakan suatu kewajiban bagi para staff dan para mapper yang belum memiliki beatmap yang berstatus Ranked namun telah berkontribusi terhadap satu atau lebih Guest Difficulty pada beatmap Ranked milik mapper lain untuk dapat menominasikan dan memberikan suara ke depannya.</span>"
+                "2": ""
             },
             "authOsu": "klik di sini untuk menghubungkan akun osu! Anda",
             "authOsuComp": "akun osu! Anda telah terhubung. Halo!",

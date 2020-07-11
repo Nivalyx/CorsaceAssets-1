@@ -13,7 +13,7 @@
             "login": "einloggen",
             "message": {
                 "1": "Scheinbar bist du nicht eingeloggt!<br>Logge dich einfach über deinen osu!-Account ein und du kannst sofort anfangen, abzustimmen/zu nominieren!",
-                "2": "Du kannst dich danach außerdem zusätzlich über Discord einloggen.<br>Dies ist nötig für Mitarbeiter oder diejenigen, die keine mapsets, sondern nur Guest Difficulties gerankt haben, und abstimmen/nominieren wollen.<br>Ansonsten ist ein Discord-Login <b>nicht notwendig</b> um abzustimmen/zu nominieren.</span>"
+                "2": ""
             },
             "authOsu": "Klicke hier, um dich über osu! zu authentifizieren",
             "authOsuComp": "osu! Verifizierung abgeschlossen. Hallo ",
