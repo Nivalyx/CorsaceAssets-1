@@ -23,6 +23,8 @@
         "main": {
             "voting": "投票",
             "nominating": "提名",
+            "results": "",
+            "undefined": "",
 			"mapsetsLabel": "谱面",
 			"mappersLabel": "谱师",
 			"commentsLabel": "评论",
@@ -30,7 +32,8 @@
 			"statisticsLabel": "统计",
             "stage": {
                 "voting": "投票阶段",
-                "nominating": "提名阶段"
+                "nominating": "提名阶段",
+                "undefined": ""
             },
             "rankedSets": "Ranked谱面",
             "nominateNow": "现在提名！",

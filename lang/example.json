@@ -23,6 +23,8 @@
         "main": {
             "voting": "",
             "nominating": "",
+            "results": "",
+            "undefined": "",
 			"mapsetsLabel": "",
 			"mappersLabel": "",
 			"commentsLabel": "",
@@ -30,7 +32,8 @@
 			"statisticsLabel": "",
             "stage": {
                 "voting": "",
-                "nominating": ""
+                "nominating": "",
+                "undefined": ""
             },
             "rankedSets": "",
             "nominateNow": "",

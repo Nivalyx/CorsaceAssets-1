@@ -23,6 +23,8 @@
         "main": {
             "voting": "투표",
             "nominating": "추천",
+            "results": "",
+            "undefined": "",
 			"mapsetsLabel": "맵셋",
 			"mappersLabel": "매퍼",
 			"commentsLabel": "댓글",
@@ -30,7 +32,8 @@
 			"statisticsLabel": "통계",
             "stage": {
                 "voting": "투표 기간",
-                "nominating": "추천 기간"
+                "nominating": "추천 기간",
+                "undefined": ""
             },
             "rankedSets": "랭크맵 수",
             "nominateNow": "지금 추천하세요 !",

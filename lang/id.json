@@ -23,14 +23,17 @@
         "main": {
             "voting": "voting",
             "nominating": "nominasi",
-			            "mapsetsLabel": "MAPSET",
-			            "mappersLabel": "MAPPER",
-			            "commentsLabel": "KOMENTAR",
-			            "recordsLabel": "REKOR",
-			            "statisticsLabel": "STATISTIK",
+            "results": "",
+            "undefined": "",
+            "mapsetsLabel": "MAPSET",
+            "mappersLabel": "MAPPER",
+            "commentsLabel": "KOMENTAR",
+            "recordsLabel": "REKOR",
+            "statisticsLabel": "STATISTIK",
             "stage": {
                 "voting": "tahapan voting",
-                "nominating": "tahapan nominasi"
+                "nominating": "tahapan nominasi",
+                "undefined": ""
             },
             "rankedSets": "TOTAL BEATMAP YANG BERSTATUS RANKED",
             "nominateNow": "nominasi sekarang !",

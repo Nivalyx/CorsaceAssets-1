@@ -23,6 +23,8 @@
         "main": {
             "voting": "abstimmen",
             "nominating": "nominieren",
+            "results": "",
+            "undefined": "",
 			"mapsetsLabel": "MAPSETS",
 			"mappersLabel": "MAPPER",
 			"commentsLabel": "KOMMENTARE",
@@ -30,7 +32,8 @@
 			"statisticsLabel": "STATISTIKEN",
             "stage": {
                 "voting": "Abstimmungsphase",
-                "nominating": "Nominierungsphase"
+                "nominating": "Nominierungsphase",
+                "undefined": ""
             },
             "rankedSets": "RANKED SETS",
             "nominateNow": "jetzt nominieren !",
